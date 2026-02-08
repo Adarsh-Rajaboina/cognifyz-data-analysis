@@ -5,7 +5,7 @@
 This repository contains my work for the **Cognifyz Technologies Data Analysis Internship**, covering **Level 1, Level 2, and Level 3** tasks.  
 The project performs **Exploratory Data Analysis (EDA)** on a restaurant dataset using **Python** to extract insights about cuisines, cities, ratings, price ranges, online services, votes, geographic distribution, restaurant chains, and review text.
 
----
+--
 
 ## 📊 Project Overview
 
